@@ -1,0 +1,27 @@
+1. What are 3-5 (or more) commands that you can use on terminal and what do they do? What language is your computer terminal in?
+
+
+ls - shows me contents of current directory
+nano - shows contents and gives editing ability via terminal
+cd .. - takes user back 1 step in path
+cd ~ - takes suer all the way to start of path
+clear - GET THAT OFF MY SCREEN!
+
+
+2. Do you have pets? What kind?
+
+I have a brand new dog about 1 year old now named Masha. She is a pure-bred Akita who has a lot of energy and likes to bite my feet :(
+
+3. If you run across an error, what would your first course of action be?
+
+I would first to check if I made a typo, then retrace my steps to see where I am and how I got here and reevaluate my goal. I would try other variations of actions to get around my error as well as looking back at slides/pages to remember. 
+
+4. Funniest thing that happened to you in high school.
+
+In 10th grade there were milk fights occasionally and I was the first victim of the war from a headshot which was of course suprising but the war escalated between others and many got bombarded in the end. 
+
+5. What is a python script? (Keep it simple)
+
+Since a script is essentially compiled code, python script is a collection of phython coding which can be executed in a terminal or places alike and be used for MATH! 
+
+
